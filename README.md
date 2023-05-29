@@ -102,8 +102,6 @@ The original design files are in the [INVENTOR](./INVENTOR) folder. *FOR ANOTHER
 !()[IMAGES/SVID_20230523_103422_1 (1).mp4]
 
 
-
-
 ## Get Involved
 
 This project is open so that anyone can get involved. You don't even have to learn CAD designing or programming. Find ways you can contribute in  [CONTRIBUTING](https://github.com/openUC2/UC2-GIT/blob/master/CONTRIBUTING.md)

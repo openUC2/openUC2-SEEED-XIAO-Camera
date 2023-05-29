@@ -95,6 +95,13 @@ The original design files are in the [INVENTOR](./INVENTOR) folder. *FOR ANOTHER
 <a href="#logo" name="logo"><img src="./IMAGES/xiao_2.jpg" width="600"></a>
 </p>
 
+## Showcase
+
+!()[IMAGES/VID_20230523_103525~2.mp4]
+!()[IMAGES/IMG_20230523_103623.jpg]
+!()[IMAGES/SVID_20230523_103422_1 (1).mp4]
+
+
 
 
 ## Get Involved

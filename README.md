@@ -98,14 +98,53 @@ The original design files are in the [INVENTOR](./INVENTOR) folder. *FOR ANOTHER
 <a href="#logo" name="logo"><img src="./IMAGES/IMG_20230523_103623.jpg" width="600"></a>
 </p>
 
-!()[IMAGES/SVID_20230523_103422_1 (1).mp4]
+![](./IMAGES/SVID_20230523_103422_1.mp4)
 
-<video src='./IMAGES/VID_20230523_103525~2.mp4' width=380/>
-<video src='./IMAGES/VID_20230523_103525~2.mp4' width=380/>
+![]()./IMAGES/VID_20230523_103525~2.mp4.mp4)
+
 
 ## Get Involved
 
 This project is open so that anyone can get involved. You don't even have to learn CAD designing or programming. Find ways you can contribute in  [CONTRIBUTING](https://github.com/openUC2/UC2-GIT/blob/master/CONTRIBUTING.md)
+
+
+## Seeed Microscope
+
+This mircoscope is based on the Seeed Studio Xiao Sense Camera (ESP32S3)
+
+![](IMAGES/Seeedmicroscope.PNG)
+
+### Bill of Material
+
+| Object Number | Description | File Name | Amount | Link | Source | Estimated Cost |
+|---|---|---|---|---|---|---|
+| 1 | 1x1 Injection Molded Cube | 10_Cube_1x1_IM.ipt | 10 | [Link](#) | openUC2 - Injection Molded | $2.00 |
+| 2 | Astromedia Front Surface Mirror 40x30mmx1mm | 00_Astromedia_FronSurfaceMirror_40x30mmx1mm.ipt | 1 | [Link](#) | Extern | $4.90 |
+| 3 | Mirror Holder Cube Insert with Astromedia Logo | 20_Cube_Insert_Mirror_Holder_wLogo_Astromedia_30x40x1_v3.ipt | 1 | [Link](#) | openUC2 - Printed | $2.00 |
+| 4 | Double-sided Adhesive 3M Scotch Acrylic | 00_Doublesided_Adhesive_3M_scotch_acrylic_20x3m_4218p.ipt | 1 | [Link](#) | Extern | $0.20 |
+| 5 | Flashlight FX Light FC4 Pollin | 00_flashlight_FX_light_FC4_Pollin.ipt | 1 | [Link](#) | Extern | $2.80 |
+| 6 | NEMA11 China Base Universal Linear Stage v3 | 30_Linear_Stage_NEMA11_China_base_universal_v3.ipt | 1 | [Link](#) | openUC2 - Printed | $8.00 |
+| 7 | NEMA11 Bayonet Mount Objective Base Holder Linear Stage v0 | 30_Linear_Stage_NEMA11_baseholder_bayonetmount_objective_v0.ipt | 1 | [Link](#) | openUC2 - Printed | $0.50 |
+| 8 | NEMA11 China Lid Universal Extender Linear Stage v2 | 30_Linear_Stage_NEMA11_China_lid_universal_extender_v2.ipt | 1 | [Link](#) | openUC2 - Printed | $2.00 |
+| 9 | NEMA11 Bayonet Mount Female/Male Arm Linear Stage | 30_Linear_Stage_NEMA11_arm_bayonetmount_femalemale.ipt | 1 | [Link](#) | openUC2 - Printed | $2.00 |
+| 10 | Manual Linear Stage 50mm China | 00_Linear_Stage_Manual_50mm_china.iam | 1 | Ask Haoran for Help | Extern | $20.00 |
+| 11 | Base Puzzle v3 | 10_Base_puzzle_v3.ipt | 10 | [Link](#) | openUC2 - Injection Molded | $0.50 |
+| 12 | Seeeduino Xiao | 00_Seeeduino Xiao.ipt | 1 | [Link](#) | Extern | $15.00 |
+| 13 | Cube Insert for SEEED Xiao Sense Camera | 20_Cube_Insert_SEEED_Xiao_Sense_Camera.ipt | 1 | [Link](#) | openUC2 - Printed | $2.00 |
+| 14 | Backplate for Cube Insert of SEEED Xiao Sense Camera | 20_Cube_Insert_SEEED_Xiao_Sense_Camera_backplate.ipt | 1 | [Link](#) | openUC2 - Printed | $0.20 |
+| 15 | Microscope Objective 10x | 00_Microscope_objective_10x.ipt | 1 | Ask Haoran for Help | Extern | $8.00 |
+| 16 | Sample Holder Cube Insert v3 | 20_Cube_insert_Sample_holder_v3.ipt | 1 | [Link](#) | openUC2 - Printed | $1.00 |
+| 17 | NeoDym Magnet 8x3mm | 00_NeoDymMagnet_8x3mm.ipt | 4 | [Link](#) | Extern | $0.20 |
+| 18 | Sample Clamp Cube Insert | 20_Cube_Insert_Sample_clamp.ipt | 1 | [Link](#) | openUC2 - Printed | $1.00 |
+| 19 | Microscope Slide | 00_Microscope_Slide.ipt | 1 | [Link](#) | Extern | $0.50 |
+
+### 3D CAD Files
+
+All files that have to be printed can be found in [STL/Seeed/STL](./STL/Seeed/STL).
+
+### Additional technical details
+
+TBA
 
 
 ## License and Collaboration

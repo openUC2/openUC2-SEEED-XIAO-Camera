@@ -124,8 +124,7 @@ This mircoscope is based on the Seeed Studio Xiao Sense Camera (ESP32S3)
 | 4 | Double-sided Adhesive 3M Scotch Acrylic | 00_Doublesided_Adhesive_3M_scotch_acrylic_20x3m_4218p.ipt | 1 | [Link]([www.openUC2.com](https://www.amazon.de/doppelseitiges-Klebeband-Klebestreifen-Klebepads-Klebepunkte/dp/B00SFSRN0E/ref=asc_df_B00SFSRN0E/?tag=googshopde-21&linkCode=df0&hvadid=257095804762&hvpos=&hvnetw=g&hvrand=15958409313771828159&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9042960&hvtargid=pla-428193255014&psc=1&th=1&psc=1 or https://www.3m.com/3M/en_US/p/d/b40065650/) | Extern | $0.20 |
 | 5 | Flashlight FX Light  | 00_flashlight_FX_light_FC4_Pollin.ipt | 1 | [Link](https://de.aliexpress.com/item/1005005058046686.html) | Extern | $6.80 |
 | 6 | Mount for Universal Linear Stage | 30_Linear_Stage_NEMA11_China_base_universal_v3.ipt | 1 | [Link](www.openUC2.com) | openUC2 - Printed | $8.00 |
-| 7 | Bayonet Mount for RMS Objective  | 30_Linear_![image](https://github.com/openUC2/openUC2-SEEED-XIAO-Camera/assets/4345528/7b2f4ae8-527e-49e9-a855-7a996b1799ac)
-Stage_NEMA11_baseholder_bayonetmount_objective_v0.ipt | 1 | [Link](www.openUC2.com) | openUC2 - Printed | $0.50 |
+| 7 | Bayonet Mount for RMS Objective  | 30_Linear_Stage_NEMA11_baseholder_bayonetmount_objective_v0.ipt | 1 | [Link](www.openUC2.com) | openUC2 - Printed | $0.50 |
 | 8 | Lid for Linear stage | 30_Linear_Stage_NEMA11_China_lid_universal_extender_v2.ipt | 1 | [Link](www.openUC2.com) | openUC2 - Printed | $2.00 |
 | 9 | Objective Moun Arm | 30_Linear_Stage_NEMA11_arm_bayonetmount_femalemale.ipt | 1 | [Link](www.openUC2.com) | openUC2 - Printed | $2.00 |
 | 10 | Manual Linear Stage 50mm, 1mm pitch | 00_Linear_Stage_Manual_50mm_china.iam | 1 |[Aliexpress](https://de.aliexpress.com/item/4000001267558.html) | Extern | $50.00 |

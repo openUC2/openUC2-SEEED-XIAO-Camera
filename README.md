@@ -135,7 +135,7 @@ Stage_NEMA11_baseholder_bayonetmount_objective_v0.ipt | 1 | [Link](www.openUC2.c
 | 14 | Backplate for Cube Insert of SEEED Xiao Sense Camera | 20_Cube_Insert_SEEED_Xiao_Sense_Camera_backplate.ipt | 1 | [Link](www.openUC2.com) | openUC2 - Printed | $1.20 |
 | 15 | Microscope Objective 10x, NA0.25 | 00_Microscope_objective_10x.ipt | 1 | [Aliexpress](https://de.aliexpress.com/item/4000427537503.html?pdp_npi=2%40dis%21EUR%2114%2C12%E2%82%AC%215%2C57%E2%82%AC%21%21%21%21%21%40211b5e2216903901674472196ee0f0%2110000001769780340%21btf&_t=pvid%3Af0c76811-a712-4c46-9a7b-446ee7fefb58&spm=a2g0o.ppclist.product.mainProduct&gatewayAdapt=glo2deu) | Extern | $20.00 |
 | 16 | Sample Holder Cube Insert v3 | 20_Cube_insert_Sample_holder_v3.ipt | 1 | [Link](www.openUC2.com)) | openUC2 - Printed | $1.00 |
-| 17 | NeoDym Magnet 8x3mm | 00_NeoDymMagnet_8x3mm.ipt | 4 | [Link]([#](https://chinese.alibaba.com/product-detail/Round-Magnet-Neodymium-8x1mm-8x2mm-8x3mm-1600371779452.html, 8x3mm
+| 17 | NeoDym Magnet 8x3mm | 00_NeoDymMagnet_8x3mm.ipt | 4 | [Link](https://chinese.alibaba.com/product-detail/Round-Magnet-Neodymium-8x1mm-8x2mm-8x3mm-1600371779452.html, 8x3mm
 )) | Extern | $0.05  |
 | 18 | Sample Clamp Cube Insert | 20_Cube_Insert_Sample_clamp.ipt | 1 | [Link]([#](https://ww![image](https://github.com/openUC2/openUC2-SEEED-XIAO-Camera/assets/4345528/507434da-b1e6-4016-b830-9179ba4979d5)
 w.alibaba.com/product-detail/Fixed-100pcs-of-box-set-biology_1600205931692.html
